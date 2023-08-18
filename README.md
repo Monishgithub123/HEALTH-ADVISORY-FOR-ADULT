@@ -29,7 +29,7 @@ The Health Advisory Adult Web Application is a platform designed to offer accura
 
 Follow these steps to set up the Health Advisory Adult Web Application locally:
 
-1. Clone this repository using: `git clone https://github.com/yourusername/health-advisory-app.git`
+1. Clone this repository using: `(https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT.git)`
 2. Navigate to the project directory: `cd health-advisory-app`
 3. Install the required dependencies: `npm install`
 
