@@ -102,10 +102,12 @@ SCREENSHOT
 
 ![Screenshot 2023-08-18 205356](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/373a60b8-4624-483a-8c42-ff6c15b36ac7)
 
-![Screenshot 2023-08-18 205421](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/ef57b628-8a4d-436b-966c-58f9cb766fc8)
+
 
 
 ![Screenshot 2023-08-18 205545](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/624ca59f-09ca-4149-838f-e77f04dadd97)
+
+![Screenshot 2023-08-18 205421](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/ef57b628-8a4d-436b-966c-58f9cb766fc8)
 
 ![Screenshot 2023-08-18 205457](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/22737873-11f5-42b1-954b-7063570734a8)
 
