@@ -94,9 +94,6 @@ Contributions are welcome and encouraged! If you'd like to contribute to the Hea
 5. Create a pull request describing your changes.
 
 
-SCREENSHOTS
-
-![dietbg](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/5cf6c9b3-3ace-4965-a42f-e0563e32d979)
 
 
 ## License
