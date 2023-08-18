@@ -20,7 +20,7 @@ Name of the application - HEALTH-ADVISORY-FOR-ADULT
 
 
 
-🏷️# New features and technologies that I can add in future
+🏷️ New features and technologies that I can add in future
 
 
 
@@ -92,6 +92,12 @@ Contributions are welcome and encouraged! If you'd like to contribute to the Hea
 3. Make your changes and commit them: `git commit -m "Add new feature"`
 4. Push your changes to your fork: `git push origin feature/new-feature`
 5. Create a pull request describing your changes.
+
+
+SCREENSHOTS
+
+![dietbg](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/5cf6c9b3-3ace-4965-a42f-e0563e32d979)
+
 
 ## License
 
