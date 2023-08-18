@@ -1,44 +1,3 @@
-❓ Problem Statement
-🔴 How can you help Sunita Sharma (65+ years old) to live a healthier and better life?
-
-🔴 Identify one use case for elderly care (for the age group 65+) and create a working prototype to demonstrate your idea using technology known to you.
-
-☑️ Solution
-Created health advisory for adult web application
-
-Name of the application - HEALTH-ADVISORY-FOR-ADULT
-
-
-
-🖥️ Tools and Technologies used
--HTML
--CSS
--Javascript
--React
--Tailwind.css
-
-
-
-
-🏷️ New features and technologies that I can add in future
-
-
-
-1.Health Trackers: Implement tools that allow users to track their daily exercise, nutrition, water intake, sleep patterns, and stress levels. Provide visualizations and trends to help users understand their progress and make informed decisions.
-
-2.Meal Planning and Recipes: Integrate a meal planning feature that offers personalized meal suggestions based on users' dietary preferences, health goals, and any medical conditions. Include recipes, nutritional information, and shopping lists.
-
-3.Mental Health Resources: Expand the platform to include resources and strategies for managing stress, anxiety, and improving mental well-being. This could include guided meditation, breathing exercises, and articles on mindfulness.
-
-4.Health Challenges: Create interactive health challenges that encourage users to adopt healthier habits over a specific period. Provide rewards and incentives for completing challenges and reaching milestones.
-
-5.Telehealth Integration: Partner with healthcare professionals to offer virtual consultations, where users can schedule appointments with registered dietitians, nutritionists, therapists, and other relevant experts.
-
-
-
-
-
-
 # Health Advisory For Adult Web Application
 
 Welcome to the Health Advisory Adult Web Application repository! This application aims to provide valuable health information and guidance to adult users for maintaining their well-being. Please read this README to get an overview of the project.
@@ -51,6 +10,7 @@ Welcome to the Health Advisory Adult Web Application repository! This applicatio
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Screenshots](#screenshots)
 
 ## Description
 
@@ -70,7 +30,7 @@ The Health Advisory Adult Web Application is a platform designed to offer accura
 
 Follow these steps to set up the Health Advisory Adult Web Application locally:
 
-1. Clone this repository using: `(https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT.git)`
+1. Clone this repository using: `git clone https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT.git`
 2. Navigate to the project directory: `cd health-advisory-app`
 3. Install the required dependencies: `npm install`
 
@@ -93,27 +53,15 @@ Contributions are welcome and encouraged! If you'd like to contribute to the Hea
 4. Push your changes to your fork: `git push origin feature/new-feature`
 5. Create a pull request describing your changes.
 
+## Screenshots
 
+![Screenshot 1](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/screenshots/screenshot_1.png)
 
+![Screenshot 2](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/screenshots/screenshot_2.png)
 
-SCREENSHOT 📸
+![Screenshot 3](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/screenshots/screenshot_3.png)
 
-
-
-![Screenshot 2023-08-18 205356](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/373a60b8-4624-483a-8c42-ff6c15b36ac7)
-
-
-
-
-![Screenshot 2023-08-18 205545](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/624ca59f-09ca-4149-838f-e77f04dadd97)
-
-![Screenshot 2023-08-18 205421](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/ef57b628-8a4d-436b-966c-58f9cb766fc8)
-
-![Screenshot 2023-08-18 205457](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/22737873-11f5-42b1-954b-7063570734a8)
-
-
-
-
+![Screenshot 4](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/screenshots/screenshot_4.png)
 
 ## License
 
@@ -123,7 +71,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to contact us if you have any questions or suggestions. We hope this application helps users make informed decisions about their health and well-being.
 
-Contact - yedlewarmonish@gmail.com
-
-
-
+Contact: yedlewarmonish@gmail.com
