@@ -1,3 +1,15 @@
+❓ Problem Statement
+🔴 How can you help Sunita Sharma (65+ years old) to live a healthier and better life?
+
+🔴 Identify one use case for elderly care (for the age group 65+) and create a working prototype to demonstrate your idea using technology known to you.
+
+☑️ Solution
+Created health advisory for adult web application
+
+Name of the application - HEALTH-ADVISORY-FOR-ADULT
+
+
+
 # Health Advisory For Adult Web Application
 
 Welcome to the Health Advisory Adult Web Application repository! This application aims to provide valuable health information and guidance to adult users for maintaining their well-being. Please read this README to get an overview of the project.
