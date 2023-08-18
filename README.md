@@ -11,11 +11,11 @@ Name of the application - HEALTH-ADVISORY-FOR-ADULT
 
 
 🖥️ Tools and Technologies used
-HTML
-CSS
-Javascript
-React
-Tailwind.css
+-HTML
+-CSS
+-Javascript
+-React
+-Tailwind.css
 
 
 
@@ -23,8 +23,6 @@ Tailwind.css
 🏷️ New features and technologies that I can add in future
 
 
-
-Certainly, here are some potential new features that you could consider adding to your health advisory adult web application in the future:
 
 1.Health Trackers: Implement tools that allow users to track their daily exercise, nutrition, water intake, sleep patterns, and stress levels. Provide visualizations and trends to help users understand their progress and make informed decisions.
 
