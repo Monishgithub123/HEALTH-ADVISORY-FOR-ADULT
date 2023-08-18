@@ -55,13 +55,12 @@ Contributions are welcome and encouraged! If you'd like to contribute to the Hea
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/screenshots/screenshot_1.png)
-
-![Screenshot 2](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/screenshots/screenshot_2.png)
-
-![Screenshot 3](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/screenshots/screenshot_3.png)
-
-![Screenshot 4](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/screenshots/screenshot_4.png)
+![Screenshot 2023-08-18 205356](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/dd97e493-d0dc-411e-a963-565aaff34dfc)
+![Screenshot 2023-08-18 205439](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/8ce90559-5ffd-4070-a00f-a37a3f58a1da)
+![Screenshot 2023-08-18 205421](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/11dd5214-b940-4007-89b2-2b41c03217fb)
+![Screenshot 2023-08-18 205518](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/cc0fb520-ae
+![Screenshot 2023-08-18 205545](https://github.com/Monishgithub123/HEALTH-ADVISORY-FOR-ADULT/assets/136221563/742b2d4b-445f-445c-a3c7-6a2c3176e552)
+92-42cc-a6cf-16784cbabc0d)
 
 ## License
 
